@@ -1,0 +1,19 @@
+/* style css result */
+
+body {
+    /* padding: 25px; */
+    background: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size:1536px 720px;
+}
+
+div.x{
+    font-size:200%;
+}
+
+div.y{
+    font-size:200%;
+}
+div.h{
+    font-size:200%;
+}

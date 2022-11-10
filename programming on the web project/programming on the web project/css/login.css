@@ -1,0 +1,26 @@
+/* style css login */
+*
+{
+    margin:0;
+    padding:0;
+}
+
+div
+{
+    background:	white;
+    width:300px;
+    margin:140px auto;
+    padding:20px;
+
+}
+
+h1
+{
+    line-height: 100px;
+    text-align: center;
+}
+
+html
+{
+    background-color:#DA70D6
+}
